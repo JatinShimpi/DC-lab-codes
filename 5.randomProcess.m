@@ -1,4 +1,4 @@
-// Case 1:
+%Case 1:
 m = 0;
 sd = 1;
 x = -6:0.1:6;
@@ -12,7 +12,7 @@ xlabel('x values --->');
 ylabel('pdf --->'); 
 grid on;
 
-// Case 2:
+%Case 2:
 m = -1;
 sd = 1;
 x = -6:0.1:6;
@@ -27,7 +27,7 @@ ylabel('pdf --->');
 grid on;
 
 
-// Case 3:
+%Case 3:
 m = 1;
 sd = 1;
 x = -6:0.1:6;
